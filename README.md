@@ -1,5 +1,7 @@
 # Dolomite change: data analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23374492.svg)](https://doi.org/10.5281/zenodo.23374492)
+
 *Dolomite change. Un viaggio in montagna attraverso vent'anni di cambiamenti* is a
 short film by Marco Frilli and Giacomo Roversi (2026). In July 2005 the two authors
 spent a week trekking in the Dolomites above Cortina d'Ampezzo, between Cinque
@@ -9,6 +11,9 @@ walked the same route again, in a single day.
 This repository contains the data analysis cited in the film: the data, the scripts
 that download and analyse them, and a notebook that recomputes every table and
 figure. The same scripts produce the film's animations.
+
+Archived on Zenodo: [doi:10.5281/zenodo.23374492](https://doi.org/10.5281/zenodo.23374492)
+(all versions), [doi:10.5281/zenodo.23374493](https://doi.org/10.5281/zenodo.23374493) (v1.0).
 
 ## Contents
 
