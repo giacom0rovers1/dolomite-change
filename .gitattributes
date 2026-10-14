@@ -1,0 +1,11 @@
+# Fine riga: LF nel repository, nativi sul disco.
+* text=auto
+
+# Binari
+*.nc      binary
+*.zip     binary
+*.ttf     binary
+
+# Il notebook si versiona con gli output (tabelle e figure), cosi' si legge anche
+# senza eseguirlo. Spegne nbstripout, se e' attivo nella configurazione globale.
+analysis.ipynb -filter

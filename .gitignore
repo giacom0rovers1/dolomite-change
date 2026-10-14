@@ -1,0 +1,19 @@
+# I csv ARPAV stanno tutti in data/arpav/trend_variabili_meteorologiche.zip:
+# il notebook li estrae da solo al primo giro.
+data/arpav/csv/
+
+# Cache delle richieste a Open-Meteo e log dei download dal CDS
+data/openmeteo/_chunk_*.json
+logs_*.txt
+
+# Le animazioni si generano con gli script
+video/
+
+# Python e Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema
+Thumbs.db
+.DS_Store
